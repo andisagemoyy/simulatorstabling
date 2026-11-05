@@ -1,0 +1,10 @@
+BUKA index.html setelah mengekstrak ZIP.
+Atau gunakan Stabling_Kereta_DAO_Offline.html untuk satu berkas offline.
+
+Klik SF DUKSAR di samping L datang JAKK untuk melihat 52 perjalanan KA,
+jumlah kereta, dan rincian SF. Cari nomor/nama/jenis atau pilih filter
+kedatangan/keberangkatan. Tutup dengan X, Escape, atau klik di luar panel.
+Sumber SF: REKAP SF KA DAO JAKK.pdf yang sudah dikonfirmasi aktual.
+
+Fitur penempatan, jam Custom DAO, LD/LL, dan langsir pindah jalur tetap sama.
+Petunjuk lainnya ada di CATATAN_UI.md.
